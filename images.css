@@ -1,0 +1,43 @@
+body {
+    color: #665544;
+    background-color: #d4d0c6;
+    
+    font-family: Georgia, "Times New Roman", serif;
+    display: flex;
+    justify-content: center;
+}
+
+.wrapper {
+    width: 750px;
+    margin: 0px;
+    padding: 0px;
+}
+
+.header {
+
+    margin: 40px 136px 24px 136px;
+    width: 760px;
+}
+
+figure {
+    display: inline-block;
+    width: 220px;
+    height: 188px;
+    margin: 10px;
+    background-color: #E7E3D8;
+}
+.entry {
+    display: inline-block;
+}
+img {
+    margin: 9px;
+    border: 1px solid #D6D6D6;
+}
+figcaption {
+ 
+   
+    padding-left: 20px;
+    position: relative;
+    bottom: 9px;
+    left: 9px;
+}
